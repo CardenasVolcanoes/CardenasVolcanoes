@@ -12,9 +12,9 @@ A passionate Volcanologist and geophysicist from Colima, Mexico.
 -   I’m looking for help with Matlab Programmers oriented to Machine Learning and deep learning looking for pattern recognition and inverse method applied to hazard by tsunamis. **Impact on the supply chain produced by Tsunamis on the coasts of Colima and the city of Manzanillo.** 
 
 ## About my codes
--   In my github repo you can find diverse codes developed to Matlab and Octave, some codes is just for Matlab or Octave.
+-   In my github repo you can find diverse codes developed to Matlab and/or Octave (due to compatibility it is not 100%).
 -   My software is a significant part of my work, but it was designed to solve some specific problems for my thesis and some consulting jobs.
 -   If you have questions about my codes, please contact me at my institutional and personal email
-•	Enrique-cardenas@utmzo.onmicrosoft.com	 
-•	Enrique-cardenas@utem.edu.mx
-•	Enricardenass@gmail.com	
+•	enrique-cardenas@utmzo.onmicrosoft.com	 
+•	enrique-cardenas@utem.edu.mx
+•	enricardenass@gmail.com	
