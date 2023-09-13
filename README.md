@@ -4,7 +4,7 @@ Hi, I'm Enrique Cárdenas-Sánchez
 A passionate Volcanologist and geophysicist from Colima, Mexico.
 ## My works
 - I’m currently working on Risk Analysis and mitigation of volcanic hazards by remote sensing (thermal camera) on active volcanoes in México. **Grain-size distribution and thermal energy release by Vulcanian/Strombilian eruption**
-- My next paper is related to estimating the heat transfer coefficient (conductivity and surface heat transfer coefficient) by using diverse sensors like thermocouples and a thermal camera. The objective is to develop a new cooling rate model to approximate the grain-size distribution by volcanic eruption. Using the cooling rate model, we can extrapolated to different size of clast ejected during an eruption, like Popocatepetl or Volcan de Colima using thermal images. 
+- My next paper is related to estimating the heat transfer coefficient (conductivity and surface heat transfer coefficient) by using diverse sensors like thermocouples and a thermal camera. The objective is to develop a new cooling rate model to approximate the grain-size distribution by volcanic eruption. Using the cooling rate model and thermal images, we can extrapolated to different size of clast ejected during an eruption, like Popocatepetl or Volcan de Colima. 
 
 ## My new projects
 -   I’m looking to collaborate with risk analyst in Port-City-Region including Manzanillo City considering anthropologic and natural hazard oriented to the affectation of the supply chain. **Anthropologic and natural hazard in the chain of subministers.** -
