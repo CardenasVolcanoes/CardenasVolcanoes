@@ -8,7 +8,8 @@ A passionate Volcanologist and geophysicist from Colima, Mexico.
 
 ## My new projects
 -   I’m looking to collaborate with risk analyst in Port-City-Region including Manzanillo City considering anthropologic and natural hazard oriented to the affectation of the supply chain. **Anthropologic and natural hazard in the chain of subministers.** -
-##Looking for co-workers
+
+## Looking for co-workers
 -   I’m looking for help with Matlab Programmers oriented to Machine Learning and deep learning looking for pattern recognition and inverse method applied to hazard by tsunamis. **Impact on the supply chain produced by Tsunamis on the coasts of Colima and the city of Manzanillo.** 
 
 ## About my codes
