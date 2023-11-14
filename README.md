@@ -15,5 +15,4 @@ A passionate Volcanologist and geophysicist.
 ## About my codes
 -   In my github repo you can find diverse codes developed to Matlab and/or Octave (due to compatibility it is not 100%).
 -   My software is a significant part of my work, but it was designed to solve some specific problems for my thesis and some consulting jobs.
--   If you have questions about my codes, please contact me at my institutional and personal email
-•	enrique-cardenas@utmzo.onmicrosoft.com	 
+-   If you have questions about my codes, please contact me at my institutional and personal email:  enrique-cardenas@utmzo.onmicrosoft.com	 
